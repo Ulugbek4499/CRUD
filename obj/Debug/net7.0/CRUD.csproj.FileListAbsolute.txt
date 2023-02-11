@@ -1,0 +1,15 @@
+D:\PDP\CRUD\CRUD\bin\Debug\net7.0\CRUD.exe
+D:\PDP\CRUD\CRUD\bin\Debug\net7.0\CRUD.deps.json
+D:\PDP\CRUD\CRUD\bin\Debug\net7.0\CRUD.runtimeconfig.json
+D:\PDP\CRUD\CRUD\bin\Debug\net7.0\CRUD.dll
+D:\PDP\CRUD\CRUD\bin\Debug\net7.0\CRUD.pdb
+D:\PDP\CRUD\CRUD\obj\Debug\net7.0\CRUD.csproj.AssemblyReference.cache
+D:\PDP\CRUD\CRUD\obj\Debug\net7.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDP\CRUD\CRUD\obj\Debug\net7.0\CRUD.AssemblyInfoInputs.cache
+D:\PDP\CRUD\CRUD\obj\Debug\net7.0\CRUD.AssemblyInfo.cs
+D:\PDP\CRUD\CRUD\obj\Debug\net7.0\CRUD.csproj.CoreCompileInputs.cache
+D:\PDP\CRUD\CRUD\obj\Debug\net7.0\CRUD.dll
+D:\PDP\CRUD\CRUD\obj\Debug\net7.0\refint\CRUD.dll
+D:\PDP\CRUD\CRUD\obj\Debug\net7.0\CRUD.pdb
+D:\PDP\CRUD\CRUD\obj\Debug\net7.0\CRUD.genruntimeconfig.cache
+D:\PDP\CRUD\CRUD\obj\Debug\net7.0\ref\CRUD.dll
